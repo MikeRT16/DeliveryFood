@@ -4,7 +4,7 @@
 <h1 align="center">Delicious & Heald</h1>
 <hr>
 <p align="center">
-    <img width="50px" src="[https://dbdzm869oupei.cloudfront.net/img/sticker/preview/33485.png](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png)" align="center" alt="GitHub Readme Stats" />
+    <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" align="center" alt="GitHub Readme Stats" />
     ·
     <a href="/docs/readme_cn.md">简体中文</a>
     ·
