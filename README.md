@@ -29,7 +29,7 @@
 
 ### Usuaario y Contraseña
 
-Usuario de prueba o si desea puede crear un nuevo usuario 
+Usuario de prueba o si desea puede crear un nuevo usuario <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Cook.png" alt="Cook" width="25" height="25" />
 
 ```html
 Usuario Publico                                                                         Panel Admi
