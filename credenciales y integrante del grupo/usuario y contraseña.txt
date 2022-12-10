@@ -1,0 +1,23 @@
+Usuario Publico	: 
+_______________________
+1# Maycol Ruiz
+User 1: Maycol505
+Pass 2: 12345678
+
+2# Heyling Siu
+User 1: Maycol505
+Pass 2: 12345678
+
+3# Gerson Villarga
+User 1: Gerson505
+Pass 2: 12345678
+
+Nota. Puede agregar nuevo usuario si desean.
+	Esto son 3  usuario e integrante el grupo.
+
+-----------------------
+Usuario Administrativo:
+_______________________
+
+User:Admin
+Pass:Admin
