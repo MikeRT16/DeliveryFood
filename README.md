@@ -16,12 +16,15 @@
     ·
     <img width="50px" height="50px" src="https://static.wikia.nocookie.net/programa/images/6/62/Jquery.png/revision/latest?cb=20161203132816&path-prefix=es" align="center" alt="GitHub Readme Stats" />
   </p>
-</p>
+ </p>
 </p>
 
 -   `Introducion` - Funcion del Sistema.
--   `Demostracion``434d58`.
-    -   `Home`  -   `Home`  
+-   `Demostracion`
+<p align="center">
+    <img width="100px" src="https://github.com/MikeRT16/DeliveryFood/blob/main/capturas/Home/Home.png" align="center" alt="GitHub Readme Stats" />
+</p>
+    -   `Home`  -     
 -   `border_color` - Card's border color _(hex color)_. Default: `e4e2e2` (Does not apply when `hide_border` is enabled).
 -   `bg_color` - Card's background color _(hex color)_ **or** a gradient in the form of _angle,start,end_. Default: `fffefe`
 -   `hide_border` - Hides the card's border _(boolean)_. Default: `false`
@@ -29,3 +32,6 @@
 -   `cache_seconds` - set the cache header manually _(min: 7200, max: 86400)_. Default: `14400 seconds (4 hours)`.
 -   `locale` - set the language in the card _(e.g. cn, de, es, etc.)_. Default: `en`.
 -   `border_radius` - Corner rounding on the card. Default: `4.5`.
+
+
+Gracias! &lt;3
