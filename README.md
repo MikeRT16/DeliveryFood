@@ -29,12 +29,13 @@
 
 ### Usuaario y Contraseña
 
-Usuario de prueba o si desea puede crear un nuevo usuario
+Usuario de prueba o si desea puede crear un nuevo usuario 
 
 ```html
-1# Maycol Ruiz              2# Heyling Siu              3# Gerson Villarga
-User 1: Maycol505           User 1: Maycol505           User 1: Gerson505
-Pass 2: 12345678            Pass 2: 12345678            Pass 2: 12345678
+Usuario Publico                                                                         Panel Admi
+1# Maycol Ruiz              2# Heyling Siu              3# Gerson Villarga      |    User:Admin
+User 1: Maycol505           User 1: Maycol505           User 1: Gerson505       |    Pass:Admin
+Pass 2: 12345678            Pass 2: 12345678            Pass 2: 12345678        |
 ```
 
 Gracias! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Avocado.png" alt="Avocado" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Bottle%20with%20Popping%20Cork.png" alt="Bottle with Popping Cork" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Clinking%20Glasses.png" alt="Clinking Glasses" width="25" height="25" />
