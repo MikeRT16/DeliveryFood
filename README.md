@@ -19,9 +19,9 @@
 </p>
 </p>
 
--   `Introducion` - Funcion del Sistema `2f80ed`.
+-   `Introducion` - Funcion del Sistema.
 -   `Demostracion``434d58`.
-    -   `Home` - Icons color if available _(hex color)_. Default: `4c71f2`.
+    -   `Home`  -   `Home`  
 -   `border_color` - Card's border color _(hex color)_. Default: `e4e2e2` (Does not apply when `hide_border` is enabled).
 -   `bg_color` - Card's background color _(hex color)_ **or** a gradient in the form of _angle,start,end_. Default: `fffefe`
 -   `hide_border` - Hides the card's border _(boolean)_. Default: `false`
