@@ -27,7 +27,7 @@
 > Tambien presenta la parte panel administrativo donde el cual el nuevo del sistema puede agragar nuevos restaurante, categoria, usuario asi  tambien como su lista puede eliminar o editar segun sea necesario. Se mostrar un orden de pedido  un lista donde podra manipular a  quienes usuario solicito dicho platillo asi pueda enviarlo ya sea Delivery, puede eliminar o tambien pueda procesar el alimento que no esta preparado. 
 ### 
 
-### Usuaario y Contraseña
+### Usuario y Contraseña
 
 Usuario de prueba o si desea puede crear un nuevo usuario <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Cook.png" alt="Cook" width="25" height="25" />
 
