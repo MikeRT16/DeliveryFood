@@ -4,7 +4,7 @@
 <h1 align="center">Delicious & Heald</h1>
 <hr>
 <p align="center">
-    <a href="/docs/readme_fr.md">Français </a>
+    <a href="#">https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png</a>
     ·
     <a href="/docs/readme_cn.md">简体中文</a>
     ·
