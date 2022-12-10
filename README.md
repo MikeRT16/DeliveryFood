@@ -8,7 +8,7 @@
     ·
     <img width="35px" height="50px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" align="center" alt="GitHub Readme Stats" />
     ·
-    <img width="40px" height="50px" src="https://static.javatpoint.com/images/javascript/javascript_logo.png" align="center" alt="GitHub Readme Stats" />
+    <img width="50px" height="50px" src="https://static.javatpoint.com/images/javascript/javascript_logo.png" align="center" alt="GitHub Readme Stats" />
     ·
     <img width="50px" src="" />
     ·
