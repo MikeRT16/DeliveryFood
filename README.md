@@ -23,7 +23,8 @@
 
 -   `Descripcion:` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pleading%20Face.png" alt="Pleading Face" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Anatomical%20Heart.png" alt="Anatomical Heart" width="25" height="25" />
 > **Note**
-> Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It is a new feature of github-readme-stats._
+> Sistema web de comida rapida su principal funcion es que los clinte puede solicitar cualquier pedido a diferente Restaurante y su platiilo de igual al eso podra siempre cuando el se registre y  crea un usuario en este sistema ya que de esta manera  puede solcitar sus platillo y probar la deleciosa comida que provee casa restaurante en Delivery a la comunidad de su hogar.
+> Tambien presenta la parte panel administrativo donde el cual el nuevo del sistema puede agragar nuevos restaurante, categoria, usuario asi  tambien como su lista puede eliminar o editar segun sea necesario. Se mostrar un orden de pedido  un lista donde podra manipular a  quienes usuario solicito dicho platillo asi pueda enviarlo ya sea Delivery, puede eliminar o tambien pueda procesar el alimento que no esta preparado. 
 ### Usage
 
 
@@ -33,16 +34,5 @@
 <p align="center">
     ![banner](https://github.com/MikeRT16/DeliveryFood/blob/main/capturas/Home/Home.png) 
 </p>
-
-
-    -   `Home`  -     
--   `border_color` - Card's border color _(hex color)_. Default: `e4e2e2` (Does not apply when `hide_border` is enabled).
--   `bg_color` - Card's background color _(hex color)_ **or** a gradient in the form of _angle,start,end_. Default: `fffefe`
--   `hide_border` - Hides the card's border _(boolean)_. Default: `false`
--   `theme` - name of the theme, choose from [all available themes](./themes/README.md). Default: `default` theme. 
--   `cache_seconds` - set the cache header manually _(min: 7200, max: 86400)_. Default: `14400 seconds (4 hours)`.
--   `locale` - set the language in the card _(e.g. cn, de, es, etc.)_. Default: `en`.
--   `border_radius` - Corner rounding on the card. Default: `4.5`.
-
 
 Gracias! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Avocado.png" alt="Avocado" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Bottle%20with%20Popping%20Cork.png" alt="Bottle with Popping Cork" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Clinking%20Glasses.png" alt="Clinking Glasses" width="25" height="25" />
