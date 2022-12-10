@@ -23,7 +23,7 @@
 -   `Demostracion`
 
 <p align="center">
-    <img width="100px" src="https://github.com/MikeRT16/DeliveryFood/blob/main/capturas/Home/Home.png" align="center" alt="GitHub Readme Stats" />
+    ! [](https://github.com/MikeRT16/DeliveryFood/blob/main/capturas/Home/Home.png) 
 </p>
 
 
