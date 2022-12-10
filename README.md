@@ -1,7 +1,7 @@
 # DeliveryFood
 <p align="center">
 <img width="100px" src="https://dbdzm869oupei.cloudfront.net/img/sticker/preview/33485.png" align="center" alt="GitHub Readme Stats" />
-<h1 align="center">Delicious & Heald</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png" alt="Smiling Face with Halo" width="25" height="25" />Delicious & Heald<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Horns.png" alt="Smiling Face with Horns" width="25" height="25" /></h1>
 <hr>
 <p align="center">
     <img width="50px" height="50px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" align="center" alt="GitHub Readme Stats" />
@@ -19,7 +19,7 @@
  </p>
 </p>
 
--   `Video youtube del Sistema Web URL:` <a href = "otra_pagina.html"> Este es un link </a>
+-   `Video youtube del Sistema Web URL:` <a href = "otra_pagina.html"> Este es un link </a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Black Cat" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" alt="Bird" width="25" height="25" />
 
 -   `Descripcion:` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pleading%20Face.png" alt="Pleading Face" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Anatomical%20Heart.png" alt="Anatomical Heart" width="25" height="25" />
 > **Note**
