@@ -12,19 +12,9 @@
     ·
     <img width="50px" height="50px" src="https://static.javatpoint.com/bootstrappages/images/bootstrap-tutorial.png" align="center" alt="GitHub Readme Stats" />
     ·
-    <img width="50px" src="" />
+    <img width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" align="center" alt="GitHub Readme Stats" />
     ·
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
-    ·
-    <a href="/docs/readme_it.md">Italiano</a>
-    ·
-    <a href="/docs/readme_kr.md">한국어</a>
-    .
-    <a href="/docs/readme_nl.md">Nederlands</a>
-    .
-    <a href="/docs/readme_np.md">नेपाली</a>
-    .
-    <a href="/docs/readme_tr.md">Türkçe</a>
+    <img width="50px" height="50px" src="https://static.wikia.nocookie.net/programa/images/6/62/Jquery.png/revision/latest?cb=20161203132816&path-prefix=es" align="center" alt="GitHub Readme Stats" />
   </p>
 </p>
 
