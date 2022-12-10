@@ -23,7 +23,7 @@
 -   `Demostracion`
 
 <p align="center">
-    ! [](https://github.com/MikeRT16/DeliveryFood/blob/main/capturas/Home/Home.png) 
+    ![](https://github.com/MikeRT16/DeliveryFood/blob/main/capturas/Home/Home.png) 
 </p>
 
 
