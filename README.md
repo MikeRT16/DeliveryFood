@@ -4,11 +4,11 @@
 <h1 align="center">Delicious & Heald</h1>
 <hr>
 <p align="center">
-    <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" align="center" alt="GitHub Readme Stats" />
+    <img width="50px" height="50px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" align="center" alt="GitHub Readme Stats" />
     ·
-    <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" align="center" alt="GitHub Readme Stats" />
+    <img width="50px" height="50px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" align="center" alt="GitHub Readme Stats" />
     ·
-    <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" align="center" alt="GitHub Readme Stats" />
+    <img width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" align="center" alt="GitHub Readme Stats" />
     ·
     <img width="50px" src="" />
     ·
