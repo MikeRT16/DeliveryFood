@@ -19,9 +19,9 @@
 </p>
 </p>
 
--   `title_color` - Card's title color _(hex color)_. Default: `2f80ed`.
+-   `Introducion` - Funcion del Sistema `2f80ed`.
 -   `text_color` - Body text color _(hex color)_. Default: `434d58`.
--   `icon_color` - Icons color if available _(hex color)_. Default: `4c71f2`.
+    -   `icon_color` - Icons color if available _(hex color)_. Default: `4c71f2`.
 -   `border_color` - Card's border color _(hex color)_. Default: `e4e2e2` (Does not apply when `hide_border` is enabled).
 -   `bg_color` - Card's background color _(hex color)_ **or** a gradient in the form of _angle,start,end_. Default: `fffefe`
 -   `hide_border` - Hides the card's border _(boolean)_. Default: `false`
