@@ -25,6 +25,6 @@
 > **Note**
 > Sistema web de comida rapida su principal funcion es que los clinte puede solicitar cualquier pedido a diferente Restaurante y su platiilo de igual al eso podra siempre cuando el se registre y  crea un usuario en este sistema ya que de esta manera  puede solcitar sus platillo y probar la deleciosa comida que provee casa restaurante en Delivery a la comunidad de su hogar. <br><br>
 > Tambien presenta la parte panel administrativo donde el cual el nuevo del sistema puede agragar nuevos restaurante, categoria, usuario asi  tambien como su lista puede eliminar o editar segun sea necesario. Se mostrar un orden de pedido  un lista donde podra manipular a  quienes usuario solicito dicho platillo asi pueda enviarlo ya sea Delivery, puede eliminar o tambien pueda procesar el alimento que no esta preparado. 
-### Usage
+### 
 
 Gracias! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Avocado.png" alt="Avocado" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Bottle%20with%20Popping%20Cork.png" alt="Bottle with Popping Cork" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Clinking%20Glasses.png" alt="Clinking Glasses" width="25" height="25" />
