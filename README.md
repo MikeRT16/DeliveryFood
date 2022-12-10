@@ -19,7 +19,9 @@
  </p>
 </p>
 
--   `Video youtube del Sistema Web:` <a href = "otra_pagina.html"> Este es un link </a>
+-   `Video youtube del Sistema Web URL:` <a href = "otra_pagina.html"> Este es un link </a>
+
+-   `Descripcion:` <a href = "otra_pagina.html"> Este es un link </a>
 
 
 -   `Introducion` - Funcion del Sistema.
