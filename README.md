@@ -21,9 +21,12 @@
 
 -   `Introducion` - Funcion del Sistema.
 -   `Demostracion`
+
 <p align="center">
     <img width="100px" src="https://github.com/MikeRT16/DeliveryFood/blob/main/capturas/Home/Home.png" align="center" alt="GitHub Readme Stats" />
 </p>
+
+
     -   `Home`  -     
 -   `border_color` - Card's border color _(hex color)_. Default: `e4e2e2` (Does not apply when `hide_border` is enabled).
 -   `bg_color` - Card's background color _(hex color)_ **or** a gradient in the form of _angle,start,end_. Default: `fffefe`
